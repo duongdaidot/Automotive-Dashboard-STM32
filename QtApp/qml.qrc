@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SpeedometerStyle.qml</file>
+        <file>ValueSource.qml</file>
+        <file>ArrowIndicator.qml</file>
+        <file>RPMMeterStyle.qml</file>
+    </qresource>
+</RCC>
